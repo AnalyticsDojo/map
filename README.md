@@ -9,4 +9,4 @@ The goal of this repository is to map the domain of data science for both the An
 - [Big Data Learning Path](https://www.analyticsvidhya.com/blog/2017/03/big-data-learning-path-for-all-engineers-and-data-scientists-out-there/)
 
 We need to instead a **specific list** that can serve as a narritive for content creators.  Here is an example of what was done for mathematics:
- - [Map]( https://gist.github.com/QuincyLarson/ab0ddc4d06a992f78cdf3059e3dda4ca)
+ - [Map](https://gist.github.com/QuincyLarson/ab0ddc4d06a992f78cdf3059e3dda4ca)
